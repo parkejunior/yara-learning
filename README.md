@@ -2,6 +2,8 @@
 Nesse repositório será guardado o resumo das aulas com a @YaraWS.
 
 ## 2022
+**[Aula 20/08/22](lessons/aula-22-08-20.md)**
+
 **[Aula 13/08/22](lessons/aula-22-08-13.md)**
 
 **[Aula 04/08/22](lessons/aula-22-08-04.md)**
