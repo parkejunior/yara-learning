@@ -6,7 +6,7 @@ Para exercícios veja o repositório [yara-coding](https://github.com/parkejunio
 ## 2022
 **[Aula 22/10/22](lessons/aula-22-10-22.md)**
 
-**[Aula 08/10/22](lessons/aula-22-10-8.md)**
+**[Aula 08/10/22](lessons/aula-22-10-08.md)**
 
 **[Aula 10/09/22](lessons/aula-22-09-10.md)**
 
