@@ -4,6 +4,8 @@ Nesse repositório será guardado o resumo das aulas com a @YaraWS.
 Para exercícios veja o repositório [yara-coding](https://github.com/parkejunior/yara-coding).
 
 ## 2023
+**[Aula 11/03/23](lessons/2023/aula-23-03-11.md)**
+
 **[Aula 25/02/23](lessons/2023/aula-23-02-25.md)**
 
 **[Aula 11/02/23](lessons/2023/aula-23-02-11.md)**
